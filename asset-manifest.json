@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/yousef-majrashi/static/css/main.1b264f9a.css",
+    "main.js": "/yousef-majrashi/static/js/main.c4fe6b70.js",
+    "static/js/796.45ee1546.chunk.js": "/yousef-majrashi/static/js/796.45ee1546.chunk.js",
+    "static/js/165.326929fb.chunk.js": "/yousef-majrashi/static/js/165.326929fb.chunk.js",
+    "static/media/video13.mp4": "/yousef-majrashi/static/media/video13.f1fa9639b16491c8fc94.mp4",
+    "static/media/video14.mp4": "/yousef-majrashi/static/media/video14.78c127356f0e2c62f539.mp4",
+    "static/media/14.png": "/yousef-majrashi/static/media/14.09a7da3356e34851f5cd.png",
+    "static/media/17.png": "/yousef-majrashi/static/media/17.08e15d21920fc7a43958.png",
+    "static/media/15.png": "/yousef-majrashi/static/media/15.bbb1971ecd6ad4e397a8.png",
+    "static/media/video16.mp4": "/yousef-majrashi/static/media/video16.dada2786e005d87e598f.mp4",
+    "static/media/16.png": "/yousef-majrashi/static/media/16.bf94eb76093f7d23b404.png",
+    "static/media/18.png": "/yousef-majrashi/static/media/18.afdaf5a52b37a84ee269.png",
+    "static/media/video18.mp4": "/yousef-majrashi/static/media/video18.cc35f4ad4daed1665429.mp4",
+    "static/media/13.png": "/yousef-majrashi/static/media/13.af4e132561f8a4bd200e.png",
+    "static/media/video15.mp4": "/yousef-majrashi/static/media/video15.51f8210ac57fb9c4b071.mp4",
+    "static/media/video17.mp4": "/yousef-majrashi/static/media/video17.d2030d8283589f628d8d.mp4",
+    "static/media/self.jpg": "/yousef-majrashi/static/media/self.eb55467dbee92a88d191.jpg",
+    "index.html": "/yousef-majrashi/index.html",
+    "main.1b264f9a.css.map": "/yousef-majrashi/static/css/main.1b264f9a.css.map",
+    "main.c4fe6b70.js.map": "/yousef-majrashi/static/js/main.c4fe6b70.js.map",
+    "796.45ee1546.chunk.js.map": "/yousef-majrashi/static/js/796.45ee1546.chunk.js.map",
+    "165.326929fb.chunk.js.map": "/yousef-majrashi/static/js/165.326929fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b264f9a.css",
+    "static/js/main.c4fe6b70.js"
+  ]
+}
