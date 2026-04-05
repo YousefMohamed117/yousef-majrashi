@@ -4,7 +4,7 @@ A fully animated portfolio website built for a voice-over artist, designed to pr
 
 **[→ Live Site](https://yousef-voice.netlify.app/)**
 
-![screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06833187-53c2-4dfb-b130-fc191e4e994e" />
+
 )
 <img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/1d3e1cda-5ade-4c99-b3ea-78324c5dae66" />
 
